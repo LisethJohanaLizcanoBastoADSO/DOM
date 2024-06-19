@@ -1,0 +1,22 @@
+{
+  "name": "dom",
+  "version": "1.0.0",
+  "main": "ll",
+  "scripts": {
+    "test": "www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LisethJohanaLizcanoBastoADSO/Repaso.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LisethJohanaLizcanoBastoADSO/Repaso/issues"
+  },
+  "homepage": "https://github.com/LisethJohanaLizcanoBastoADSO/Repaso#readme",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
